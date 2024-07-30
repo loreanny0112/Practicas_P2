@@ -1,0 +1,14 @@
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\bin\Debug\net8.0\Principio_ISP.exe
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\bin\Debug\net8.0\Principio_ISP.deps.json
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\bin\Debug\net8.0\Principio_ISP.runtimeconfig.json
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\bin\Debug\net8.0\Principio_ISP.dll
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\bin\Debug\net8.0\Principio_ISP.pdb
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\Principio_ISP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\Principio_ISP.AssemblyInfoInputs.cache
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\Principio_ISP.AssemblyInfo.cs
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\Principio_ISP.csproj.CoreCompileInputs.cache
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\Principio_ISP.dll
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\refint\Principio_ISP.dll
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\Principio_ISP.pdb
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\Principio_ISP.genruntimeconfig.cache
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_ISP\obj\Debug\net8.0\ref\Principio_ISP.dll
