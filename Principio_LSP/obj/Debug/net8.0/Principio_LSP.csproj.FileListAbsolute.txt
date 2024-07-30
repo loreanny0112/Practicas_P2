@@ -1,0 +1,14 @@
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\bin\Debug\net8.0\Principio_LSP.exe
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\bin\Debug\net8.0\Principio_LSP.deps.json
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\bin\Debug\net8.0\Principio_LSP.runtimeconfig.json
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\bin\Debug\net8.0\Principio_LSP.dll
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\bin\Debug\net8.0\Principio_LSP.pdb
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\Principio_LSP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\Principio_LSP.AssemblyInfoInputs.cache
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\Principio_LSP.AssemblyInfo.cs
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\Principio_LSP.csproj.CoreCompileInputs.cache
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\Principio_LSP.dll
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\refint\Principio_LSP.dll
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\Principio_LSP.pdb
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\Principio_LSP.genruntimeconfig.cache
+c:\Users\Loreanny\Desktop\C2-2024\Programación II\Principio_LSP\obj\Debug\net8.0\ref\Principio_LSP.dll
